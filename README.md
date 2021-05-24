@@ -1,6 +1,6 @@
 # Firebase - Social Login
 
-
+Google - Facebook - Github
 
 ## Available Scripts
 
