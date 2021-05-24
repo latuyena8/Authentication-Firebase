@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Authentication-Firebase/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Authentication-Firebase/static/js/main.37c82d72.chunk.js",
-    "main.js.map": "/Authentication-Firebase/static/js/main.37c82d72.chunk.js.map",
-    "runtime-main.js": "/Authentication-Firebase/static/js/runtime-main.f256f903.js",
-    "runtime-main.js.map": "/Authentication-Firebase/static/js/runtime-main.f256f903.js.map",
-    "static/js/2.e7afe6b1.chunk.js": "/Authentication-Firebase/static/js/2.e7afe6b1.chunk.js",
-    "static/js/2.e7afe6b1.chunk.js.map": "/Authentication-Firebase/static/js/2.e7afe6b1.chunk.js.map",
-    "static/js/3.c6d8ef51.chunk.js": "/Authentication-Firebase/static/js/3.c6d8ef51.chunk.js",
-    "static/js/3.c6d8ef51.chunk.js.map": "/Authentication-Firebase/static/js/3.c6d8ef51.chunk.js.map",
-    "index.html": "/Authentication-Firebase/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Authentication-Firebase/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.e7afe6b1.chunk.js.LICENSE.txt": "/Authentication-Firebase/static/js/2.e7afe6b1.chunk.js.LICENSE.txt"
+    "main.css": "/latuyena8/Authentication-Firebase/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/latuyena8/Authentication-Firebase/static/js/main.37c82d72.chunk.js",
+    "main.js.map": "/latuyena8/Authentication-Firebase/static/js/main.37c82d72.chunk.js.map",
+    "runtime-main.js": "/latuyena8/Authentication-Firebase/static/js/runtime-main.0430e4f0.js",
+    "runtime-main.js.map": "/latuyena8/Authentication-Firebase/static/js/runtime-main.0430e4f0.js.map",
+    "static/js/2.e1316769.chunk.js": "/latuyena8/Authentication-Firebase/static/js/2.e1316769.chunk.js",
+    "static/js/2.e1316769.chunk.js.map": "/latuyena8/Authentication-Firebase/static/js/2.e1316769.chunk.js.map",
+    "static/js/3.c6d8ef51.chunk.js": "/latuyena8/Authentication-Firebase/static/js/3.c6d8ef51.chunk.js",
+    "static/js/3.c6d8ef51.chunk.js.map": "/latuyena8/Authentication-Firebase/static/js/3.c6d8ef51.chunk.js.map",
+    "index.html": "/latuyena8/Authentication-Firebase/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/latuyena8/Authentication-Firebase/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e1316769.chunk.js.LICENSE.txt": "/latuyena8/Authentication-Firebase/static/js/2.e1316769.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f256f903.js",
-    "static/js/2.e7afe6b1.chunk.js",
+    "static/js/runtime-main.0430e4f0.js",
+    "static/js/2.e1316769.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.37c82d72.chunk.js"
   ]
