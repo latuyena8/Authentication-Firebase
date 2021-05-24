@@ -1,6 +1,6 @@
 # Firebase - Social Login
 
-Google - Facebook - Github
+Google - Facebook - Github - Authorization in axios interceptors
 
 ## Available Scripts
 
